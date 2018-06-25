@@ -1,7 +1,9 @@
----
-title: "Stat Practice"
-output: html_document
----
+---  
+    title: "Stat Questions"  
+    author: "Evan YF W."  
+    date: "`r format(Sys.Date())`"
+    output: github_document
+--- 
 
 ### Question 1 - Pr(death with 500 jumps)
 
